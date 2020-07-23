@@ -11,7 +11,7 @@ View [the workflow](https://github.com/jslim89/jslim89/actions)
 #### 🏋️‍♀️ <a href="https://github.com/jslim89/jslim89/blob/main/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-
+* <a href='https://github.com/jslim89/jslim89/releases/tag/v0.0.1' target='_blank'>jslim89 v0.0.1</a> - 2020-07-23
 <!-- recent_releases ends -->
 
 </td>
