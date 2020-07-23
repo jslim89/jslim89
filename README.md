@@ -1,4 +1,4 @@
-## Hi
+## JS here
 
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, welcome to my GitHub.
 
